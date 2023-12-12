@@ -14,4 +14,24 @@ En resumen, esta asignatura es esencial para que los estudiantes adquieran las h
 [ENLACE RESUMEN](https://youtu.be/odiFbpz4gQk?si=TV984ZDfQjjpV16T)
 ![Imagen Entornos Desarrollo](https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)
 
+### **IDE'S Entorno Desarrollo**
+Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
+
+1. **Visual Studio (Microsoft):** Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
+
+1. **Eclipse:** Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
+
+1. **IntelliJ IDEA (JetBrains):** Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
+
+1. **PyCharm (JetBrains):** Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades como depuración avanzada, análisis de código, soporte para frameworks web como Django y Flask, entre otros.
+
+1. **Visual Studio Code (Microsoft):** Aunque no es una IDE completa en sí misma, es un editor de código altamente personalizable con una amplia gama de extensiones que permiten convertirlo en un entorno de desarrollo completo para múltiples lenguajes y frameworks.
+
+1. **NetBeans:** Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desarrollo de aplicaciones web, móviles y empresariales. Es de código abierto y tiene una comunidad activa de usuarios.
+
+1. **Android Studio:** Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas para diseño de interfaces, depuración y optimización de aplicaciones móviles.
+
+1. **Xcode** (Apple): IDE para desarrollo de aplicaciones en el ecosistema de Apple, incluyendo iOS, macOS, watchOS y tvOS. Proporciona herramientas para diseño de interfaces, depuración y pruebas de aplicaciones.
+
+Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras más especializadas en lenguajes o entornos específicos. La elección de la IDE depende en gran medida del lenguaje de programación y las necesidades del proyecto.
 
