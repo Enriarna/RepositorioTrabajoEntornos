@@ -18,6 +18,9 @@ En resumen, esta asignatura es esencial para que los estudiantes adquieran las h
 Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
 
 1. **Visual Studio (Microsoft):** Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
+#### Enlace Para descargar Visual Studio
+[Descargar aquí](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
+
 
 1. **Eclipse:** Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
 
