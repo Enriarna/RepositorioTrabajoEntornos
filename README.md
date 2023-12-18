@@ -21,6 +21,7 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 #### Enlace Para descargar Visual Studio
 [Descargar aquí](https://code.visualstudio.com/download )
 ![imagen Visual](https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png)
+### Ventajas Y Desventajas de Visual Studio
 
 
 2. **Eclipse:** Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
@@ -28,6 +29,14 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 [Descargar aquí](https://www.eclipse.org/downloads/)
 
 ![imagen Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png)
+### Ventajas Y Desventajas de Eclipse
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 3. **IntelliJ IDEA (JetBrains):** Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
 #### Enlace Para descargar IntelliJ
