@@ -37,8 +37,7 @@ width="115">
 2. **Eclipse:** Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
 #### Enlace Para descargar Eclipse
 [Descargar aquí](https://www.eclipse.org/downloads/)
-
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png)"
+<img src = "https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"
 width = "115">
 
 ### Ventajas Y Desventajas de Eclipse
