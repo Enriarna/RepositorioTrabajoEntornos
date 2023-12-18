@@ -77,8 +77,8 @@ Especialmente popular entre los desarrolladores Java, ofrece características av
 
 4. **PyCharm (JetBrains):** 
 
-<img src = "https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg"
-width = "115">
+<img src = "https://datascientest.com/es/wp-content/uploads/sites/7/2022/11/pycharm.png"
+width = "200">
 
 Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades como depuración avanzada, análisis de código, soporte para frameworks web como Django y Flask, entre otros.
 
