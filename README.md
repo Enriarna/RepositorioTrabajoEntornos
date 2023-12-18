@@ -11,6 +11,7 @@ La asignatura de entornos de desarrollo suele estar orientada a proporcionar a l
 ### **RESUMEN ENTORNOS**
 En resumen, esta asignatura es esencial para que los estudiantes adquieran las habilidades y el conocimiento necesario para trabajar de manera efectiva en el desarrollo de software, comprendiendo las herramientas y prácticas que se utilizan en la industria
 ### ENLACE RESUMEN ENTORNOS DE DESARROLLO
+>Si pinchas en la imagen encontraremos un video explicativo
 [![ENLACE RESUMEN](https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)](https://youtu.be/odiFbpz4gQk?si=HmRolmaPtQHa3wUp)
 
 
