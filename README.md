@@ -139,7 +139,9 @@ La asignatura de programación es un área fundamental en informática que se en
 
 En resumen, la asignatura de programación es esencial para aquellos interesados en la creación de software, ya que proporciona las habilidades y el conocimiento necesarios para desarrollar programas, resolver problemas y contribuir a la innovación tecnológica.
 ### Un poco de Programacion
-```java
+>Aqui pondremos un ejemplo de nuestro horario donde si compilamos el programa veremos el horario como en una tabla
+
+```Java
 package com.dam.quique;
 
 public class Main{
