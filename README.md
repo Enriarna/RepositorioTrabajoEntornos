@@ -58,34 +58,34 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 
 Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras más especializadas en lenguajes o entornos específicos. La elección de la IDE depende en gran medida del lenguaje de programación y las necesidades del proyecto.
 
-## 1. Programacion
+## 2. Programacion
  ¡Claro! La asignatura de programación es un área fundamental en informática que se enfoca en enseñar a los estudiantes cómo escribir código de computadora para crear programas y software. Aquí tienes algunos puntos importantes sobre la asignatura:
 
 ### 1. Fundamentos de Programación:
-- **Lenguajes de Programación:** Los estudiantes aprenden lenguajes como Python, Java, C++, entre otros, para escribir código.
-- **1. Estructuras de Control:** Se enseñan conceptos como bucles, condicionales y estructuras de datos para controlar el flujo de un programa.
-- **1. Algoritmos:** La creación y comprensión de algoritmos eficientes es esencial para resolver problemas de manera óptima.
+- **1. Lenguajes de Programación:** Los estudiantes aprenden lenguajes como Python, Java, C++, entre otros, para escribir código.
+- **2. Estructuras de Control:** Se enseñan conceptos como bucles, condicionales y estructuras de datos para controlar el flujo de un programa.
+- **3. Algoritmos:** La creación y comprensión de algoritmos eficientes es esencial para resolver problemas de manera óptima.
 
-### 1. Desarrollo de Software:
+### 2. Desarrollo de Software:
 - **1. Metodologías de Desarrollo:** Aprender sobre metodologías como Agile o Scrum, que ayudan a organizar el desarrollo de software en equipos.
-- **1. Diseño y Arquitectura de Software:** Comprender cómo estructurar y diseñar programas y sistemas de software de manera eficiente y escalable.
+- **2. Diseño y Arquitectura de Software:** Comprender cómo estructurar y diseñar programas y sistemas de software de manera eficiente y escalable.
 
-### 1. Conceptos Avanzados:
+### 3. Conceptos Avanzados:
 - **1. Programación Orientada a Objetos (POO):** Un paradigma importante donde los conceptos se modelan como objetos que tienen atributos y comportamientos.
-- **1. Desarrollo Web y Aplicaciones Móviles:** Enfoque en la creación de sitios web, aplicaciones móviles y APIs.
-- **1. Bases de Datos:** Aprender a trabajar con bases de datos para almacenar y recuperar información de manera eficiente.
+- **2. Desarrollo Web y Aplicaciones Móviles:** Enfoque en la creación de sitios web, aplicaciones móviles y APIs.
+- **3. Bases de Datos:** Aprender a trabajar con bases de datos para almacenar y recuperar información de manera eficiente.
 
-### 1. Resolución de Problemas:
+### 4. Resolución de Problemas:
 - **1. Pensamiento Lógico y Analítico:** La programación fomenta el pensamiento crítico para resolver problemas de manera estructurada.
-- **1. Depuración y Testing:** Enseña a identificar y corregir errores en el código, así como a realizar pruebas para asegurar su funcionamiento adecuado.
+- **2. Depuración y Testing:** Enseña a identificar y corregir errores en el código, así como a realizar pruebas para asegurar su funcionamiento adecuado.
 
-### 1. Habilidades Adicionales:
+### 5. Habilidades Adicionales:
 - **1. Trabajo en Equipo:** Muchos proyectos de programación involucran trabajo colaborativo en equipo.
-- **1. Creatividad y Innovación:** La programación permite crear soluciones únicas y originales para diversos problemas.
+- **2. Creatividad y Innovación:** La programación permite crear soluciones únicas y originales para diversos problemas.
 
-### 1. Importancia en la Actualidad:
+### 6. Importancia en la Actualidad:
 - **1. Amplias Oportunidades Laborales:** La demanda de programadores es alta en diversos sectores, desde tecnología hasta finanzas, salud y más.
-- **1. Tecnología en Constante Evolución:** La programación requiere actualización constante debido al rápido avance tecnológico.
+- **2. Tecnología en Constante Evolución:** La programación requiere actualización constante debido al rápido avance tecnológico.
 
 En resumen, la asignatura de programación es esencial para aquellos interesados en la creación de software, ya que proporciona las habilidades y el conocimiento necesarios para desarrollar programas, resolver problemas y contribuir a la innovación tecnológica.
 
