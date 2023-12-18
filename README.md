@@ -1,4 +1,4 @@
-# Quique
+# Curso Grado Superior DAM
 ## **Asignaturas**
 ## 1. Entornos De Desarollo
 La asignatura de entornos de desarrollo suele estar orientada a proporcionar a los estudiantes conocimientos fundamentales sobre las herramientas, metodologías y entornos necesarios para el desarrollo de software. Aquí te detallo algunos aspectos importantes que suelen cubrirse:
@@ -12,7 +12,6 @@ La asignatura de entornos de desarrollo suele estar orientada a proporcionar a l
 En resumen, esta asignatura es esencial para que los estudiantes adquieran las habilidades y el conocimiento necesario para trabajar de manera efectiva en el desarrollo de software, comprendiendo las herramientas y prácticas que se utilizan en la industria
 ### ENLACE RESUMEN ENTORNOS DE DESARROLLO
 [![ENLACE RESUMEN] (https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)](https://youtu.be/odiFbpz4gQk?si=5qJOAk4GQDsgqrqg)
-![Imagen Entornos Desarrollo](https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)
 
 ### **IDE'S Entorno Desarrollo**
 Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
@@ -61,6 +60,8 @@ Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras má
 ## 2. Programacion
  ¡Claro! La asignatura de programación es un área fundamental en informática que se enfoca en enseñar a los estudiantes cómo escribir código de computadora para crear programas y software. Aquí tienes algunos puntos importantes sobre la asignatura:
 
+[RESUMEN DE PROGRAMACION](https://youtu.be/D4tNLuZNA3A?si=e64JkjRE9KV1L9pt)
+
 ### 1. Fundamentos de Programación:
 - **1. Lenguajes de Programación:** Los estudiantes aprenden lenguajes como Python, Java, C++, entre otros, para escribir código.
 - **2. Estructuras de Control:** Se enseñan conceptos como bucles, condicionales y estructuras de datos para controlar el flujo de un programa.
@@ -86,6 +87,35 @@ Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras má
 ### 6. Importancia en la Actualidad:
 - **1. Amplias Oportunidades Laborales:** La demanda de programadores es alta en diversos sectores, desde tecnología hasta finanzas, salud y más.
 - **2. Tecnología en Constante Evolución:** La programación requiere actualización constante debido al rápido avance tecnológico.
+### 7. Resumen:
 
 En resumen, la asignatura de programación es esencial para aquellos interesados en la creación de software, ya que proporciona las habilidades y el conocimiento necesarios para desarrollar programas, resolver problemas y contribuir a la innovación tecnológica.
 
+## 3. Lenguaje de Marcas
+El "Lenguaje de Marcas" en informática se refiere a la capacidad de utilizar lenguajes específicos para definir la estructura y presentación de documentos. Aquí hay información detallada al respecto:
+
+### Concepto Básico:
+- **Definición:** Se refiere a lenguajes como HTML (HyperText Markup Language), XML (eXtensible Markup Language) y otros que se centran en marcar o etiquetar contenido para estructurarlo y presentarlo de manera adecuada.
+
+### HTML (HyperText Markup Language):
+- **Estructura de Página Web:** HTML es fundamental para crear la estructura básica de las páginas web, define elementos como encabezados, párrafos, enlaces, imágenes, formularios, entre otros.
+- **Etiquetas y Atributos:** Utiliza etiquetas para definir la estructura del contenido y atributos para proporcionar información adicional a los elementos.
+
+### XML (eXtensible Markup Language):
+- **Uso para el Intercambio de Datos:** XML se usa para almacenar y transportar datos, ya que permite crear etiquetas personalizadas para estructurar la información de manera legible tanto por humanos como por máquinas.
+- **Versatilidad y Adaptabilidad:** Es extremadamente flexible y puede adaptarse a diferentes necesidades, ya que se puede definir un conjunto específico de etiquetas para cualquier tipo de información.
+
+### Importancia y Aplicaciones:
+- **Web:** El HTML es esencial para el desarrollo web, ya que define la estructura de las páginas y su contenido.
+- **Intercambio de Datos:** XML es utilizado en diversos ámbitos como intercambio de datos entre sistemas, configuración de software, representación de información en bases de datos, entre otros.
+- **SEO y Accesibilidad:** El buen uso de lenguajes de marcas puede mejorar la accesibilidad de un sitio web y su visibilidad en los motores de búsqueda.
+
+### Habilidades Clave:
+- **Entendimiento de la Estructura:** Es fundamental comprender cómo las etiquetas y estructuras afectan la presentación y organización del contenido.
+- **Actualización Constante:** Dado que los lenguajes de marcas evolucionan, es importante mantenerse al día con las últimas especificaciones y tendencias.
+
+### Evolución y Futuro:
+- **Nuevos Estándares:** Se están desarrollando continuamente nuevos estándares y lenguajes para mejorar la eficiencia y la capacidad de presentación en la web y en otros campos.
+
+### Conclusión:
+El lenguaje de marcas en informática es crucial para definir la estructura y presentación de documentos y datos en la web y más allá. Su comprensión es fundamental para aquellos que desean trabajar en el desarrollo web, el intercambio de datos o la creación de contenido digital estructurado.
