@@ -94,28 +94,31 @@ En resumen, la asignatura de programación es esencial para aquellos interesados
 ## 3. Lenguaje de Marcas
 El "Lenguaje de Marcas" en informática se refiere a la capacidad de utilizar lenguajes específicos para definir la estructura y presentación de documentos. Aquí hay información detallada al respecto:
 
-### Concepto Básico:
-- **Definición:** Se refiere a lenguajes como HTML (HyperText Markup Language), XML (eXtensible Markup Language) y otros que se centran en marcar o etiquetar contenido para estructurarlo y presentarlo de manera adecuada.
+### Video Explicativo 
+[Resumen de lenguaje de marcas](https://youtu.be/3CZCV5-HVRg?si=cefpY9urbblknjJc)
 
-### HTML (HyperText Markup Language):
-- **Estructura de Página Web:** HTML es fundamental para crear la estructura básica de las páginas web, define elementos como encabezados, párrafos, enlaces, imágenes, formularios, entre otros.
-- **Etiquetas y Atributos:** Utiliza etiquetas para definir la estructura del contenido y atributos para proporcionar información adicional a los elementos.
+### 1. Concepto Básico:
+- **1. Definición:** Se refiere a lenguajes como HTML (HyperText Markup Language), XML (eXtensible Markup Language) y otros que se centran en marcar o etiquetar contenido para estructurarlo y presentarlo de manera adecuada.
 
-### XML (eXtensible Markup Language):
-- **Uso para el Intercambio de Datos:** XML se usa para almacenar y transportar datos, ya que permite crear etiquetas personalizadas para estructurar la información de manera legible tanto por humanos como por máquinas.
-- **Versatilidad y Adaptabilidad:** Es extremadamente flexible y puede adaptarse a diferentes necesidades, ya que se puede definir un conjunto específico de etiquetas para cualquier tipo de información.
+### 2. HTML (HyperText Markup Language):
+- **1. Estructura de Página Web:** HTML es fundamental para crear la estructura básica de las páginas web, define elementos como encabezados, párrafos, enlaces, imágenes, formularios, entre otros.
+- **2. Etiquetas y Atributos:** Utiliza etiquetas para definir la estructura del contenido y atributos para proporcionar información adicional a los elementos.
 
-### Importancia y Aplicaciones:
-- **Web:** El HTML es esencial para el desarrollo web, ya que define la estructura de las páginas y su contenido.
-- **Intercambio de Datos:** XML es utilizado en diversos ámbitos como intercambio de datos entre sistemas, configuración de software, representación de información en bases de datos, entre otros.
-- **SEO y Accesibilidad:** El buen uso de lenguajes de marcas puede mejorar la accesibilidad de un sitio web y su visibilidad en los motores de búsqueda.
+### 3. XML (eXtensible Markup Language):
+- **1. Uso para el Intercambio de Datos:** XML se usa para almacenar y transportar datos, ya que permite crear etiquetas personalizadas para estructurar la información de manera legible tanto por humanos como por máquinas.
+- **2. Versatilidad y Adaptabilidad:** Es extremadamente flexible y puede adaptarse a diferentes necesidades, ya que se puede definir un conjunto específico de etiquetas para cualquier tipo de información.
 
-### Habilidades Clave:
-- **Entendimiento de la Estructura:** Es fundamental comprender cómo las etiquetas y estructuras afectan la presentación y organización del contenido.
-- **Actualización Constante:** Dado que los lenguajes de marcas evolucionan, es importante mantenerse al día con las últimas especificaciones y tendencias.
+### 4. Importancia y Aplicaciones:
+- **1. Web:** El HTML es esencial para el desarrollo web, ya que define la estructura de las páginas y su contenido.
+- **2. Intercambio de Datos:** XML es utilizado en diversos ámbitos como intercambio de datos entre sistemas, configuración de software, representación de información en bases de datos, entre otros.
+- **3. SEO y Accesibilidad:** El buen uso de lenguajes de marcas puede mejorar la accesibilidad de un sitio web y su visibilidad en los motores de búsqueda.
 
-### Evolución y Futuro:
-- **Nuevos Estándares:** Se están desarrollando continuamente nuevos estándares y lenguajes para mejorar la eficiencia y la capacidad de presentación en la web y en otros campos.
+### 5. Habilidades Clave:
+- **1. Entendimiento de la Estructura:** Es fundamental comprender cómo las etiquetas y estructuras afectan la presentación y organización del contenido.
+- **2. Actualización Constante:** Dado que los lenguajes de marcas evolucionan, es importante mantenerse al día con las últimas especificaciones y tendencias.
 
-### Conclusión:
+### 6. Evolución y Futuro:
+- **1. Nuevos Estándares:** Se están desarrollando continuamente nuevos estándares y lenguajes para mejorar la eficiencia y la capacidad de presentación en la web y en otros campos.
+
+### 7. Conclusión:
 El lenguaje de marcas en informática es crucial para definir la estructura y presentación de documentos y datos en la web y más allá. Su comprensión es fundamental para aquellos que desean trabajar en el desarrollo web, el intercambio de datos o la creación de contenido digital estructurado.
