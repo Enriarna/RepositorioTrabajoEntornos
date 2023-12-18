@@ -20,7 +20,8 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 1. **Visual Studio (Microsoft):** Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
 #### Enlace Para descargar Visual Studio
 [Descargar aquí](https://code.visualstudio.com/download )
-![imagen Visual](https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png)
+<img src = "https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png"
+width = "80"
 ### Ventajas Y Desventajas de Visual Studio
 
 
