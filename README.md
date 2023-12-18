@@ -138,6 +138,8 @@ La asignatura de programación es un área fundamental en informática que se en
 ### 7. Resumen:
 
 En resumen, la asignatura de programación es esencial para aquellos interesados en la creación de software, ya que proporciona las habilidades y el conocimiento necesarios para desarrollar programas, resolver problemas y contribuir a la innovación tecnológica.
+### Un poco de Programacion
+`System.out.println("Hola mundo)`
 
 ## 3. Lenguaje de Marcas
 El "Lenguaje de Marcas" en informática se refiere a la capacidad de utilizar lenguajes específicos para definir la estructura y presentación de documentos. Aquí hay información detallada al respecto:
@@ -170,5 +172,3 @@ El "Lenguaje de Marcas" en informática se refiere a la capacidad de utilizar le
 
 ### 7. Conclusión:
 El lenguaje de marcas en informática es crucial para definir la estructura y presentación de documentos y datos en la web y más allá. Su comprensión es fundamental para aquellos que desean trabajar en el desarrollo web, el intercambio de datos o la creación de contenido digital estructurado.
-
-[def]: https://youtu.be/odiFbpz4gQk?si=5qJOAk4GQDsgqrqg
