@@ -11,7 +11,7 @@ La asignatura de entornos de desarrollo suele estar orientada a proporcionar a l
 ### **RESUMEN ENTORNOS**
 En resumen, esta asignatura es esencial para que los estudiantes adquieran las habilidades y el conocimiento necesario para trabajar de manera efectiva en el desarrollo de software, comprendiendo las herramientas y prácticas que se utilizan en la industria
 ### ENLACE RESUMEN ENTORNOS DE DESARROLLO
-[![ENLACE RESUMEN] (https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)](https://youtu.be/odiFbpz4gQk?si=5qJOAk4GQDsgqrqg)
+[![ENLACE RESUMEN] (https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)][https://youtu.be/odiFbpz4gQk?si=HmRolmaPtQHa3wUp]
 
 ### **IDE'S Entorno Desarrollo**
 Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
@@ -122,3 +122,5 @@ El "Lenguaje de Marcas" en informática se refiere a la capacidad de utilizar le
 
 ### 7. Conclusión:
 El lenguaje de marcas en informática es crucial para definir la estructura y presentación de documentos y datos en la web y más allá. Su comprensión es fundamental para aquellos que desean trabajar en el desarrollo web, el intercambio de datos o la creación de contenido digital estructurado.
+
+[def]: https://youtu.be/odiFbpz4gQk?si=5qJOAk4GQDsgqrqg
