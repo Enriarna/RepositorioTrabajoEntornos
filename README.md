@@ -20,8 +20,8 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 
 1. **Visual Studio (Microsoft):** 
 
-<img src = "https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png"
-width="115">
+<img src = "hhttps://assets.stickpng.com/images/62a79035e42d729d928b1755.png"
+width="200">
 
 Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
 
@@ -39,8 +39,8 @@ Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .N
 
 2. **Eclipse:** 
 
-<img src = "https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"
-width = "115">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png"
+width = "200">
 
 Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
 
@@ -58,8 +58,8 @@ Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes med
 
 3. **IntelliJ IDEA (JetBrains):** 
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FIntelliJ_IDEA&psig=AOvVaw1dzFAkdrNCRYXmEUZjBndR&ust=1702986669205000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDltrPomIMDFQAAAAAdAAAAABAE"
-width = "115">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IntelliJ_IDEA_logo.svg/2560px-IntelliJ_IDEA_logo.svg.png"
+width = "200">
 
 Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
 
@@ -96,8 +96,8 @@ Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades 
 
 5. **NetBeans:** 
 
-<img src = "https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png"
-width = "115">
+<img src = "https://blog.payara.fish/hs-fs/hubfs/Dp3nCCdXgAEIMxM.png?width=500&name=Dp3nCCdXgAEIMxM.png"
+width = "200">
 
 Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desarrollo de aplicaciones web, móviles y empresariales. Es de código abierto y tiene una comunidad activa de usuarios.
 
@@ -115,8 +115,8 @@ Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desa
 
 6. **Android Studio:** 
 
-<img src = "https://c0.klipartz.com/pngpicture/628/399/gratis-png-logotipo-de-android-studio-desarrollo-de-aplicaciones-moviles-de-android-studio-android.png)"
-width = "115" >
+<img src = "https://routerabbit.com/wp-content/uploads/2014/10/android-studio.png"
+width = "200" >
 
 Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas para diseño de interfaces, depuración y optimización de aplicaciones móviles.
 
@@ -135,7 +135,7 @@ Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas
 7. **Xcode** 
 
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png"
-width = "115">
+width = "200">
 
 IDE para desarrollo de aplicaciones en el ecosistema de Apple, incluyendo iOS, macOS, watchOS y tvOS. Proporciona herramientas para diseño de interfaces, depuración y pruebas de aplicaciones.
 
