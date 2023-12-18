@@ -58,7 +58,7 @@ Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes med
 
 3. **IntelliJ IDEA (JetBrains):** 
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Intellij_IDEA_2017_Logo.png2"
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FIntelliJ_IDEA&psig=AOvVaw1dzFAkdrNCRYXmEUZjBndR&ust=1702986669205000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDltrPomIMDFQAAAAAdAAAAABAE"
 width = "115">
 
 Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
