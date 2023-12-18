@@ -11,7 +11,8 @@ La asignatura de entornos de desarrollo suele estar orientada a proporcionar a l
 ### **RESUMEN ENTORNOS**
 En resumen, esta asignatura es esencial para que los estudiantes adquieran las habilidades y el conocimiento necesario para trabajar de manera efectiva en el desarrollo de software, comprendiendo las herramientas y prácticas que se utilizan en la industria
 ### ENLACE RESUMEN ENTORNOS DE DESARROLLO
-[![ENLACE RESUMEN] (https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)][https://youtu.be/odiFbpz4gQk?si=HmRolmaPtQHa3wUp]
+[![ENLACE RESUMEN](https://m.media-amazon.com/images/I/61EPQtzeEZL._AC_UF1000,1000_QL80_.jpg)][https://youtu.be/odiFbpz4gQk?si=HmRolmaPtQHa3wUp]
+
 
 ### **IDE'S Entorno Desarrollo**
 Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
