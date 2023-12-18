@@ -19,6 +19,7 @@ En resumen, esta asignatura es esencial para que los estudiantes adquieran las h
 Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la industria del software, cada una con sus propias características y enfoques. Aquí te menciono algunas de las más populares:
 
 1. **Visual Studio (Microsoft):** 
+
 <img src = "https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png"
 width="115">
 
@@ -37,6 +38,7 @@ Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .N
 5 | Integración con Herramientas Externas | Espacio en Disco
 
 2. **Eclipse:** 
+
 <img src = "https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"
 width = "115">
 
@@ -55,6 +57,7 @@ Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes med
 5 | Integración con Herramientas Externas | Espacio en Disco
 
 3. **IntelliJ IDEA (JetBrains):** 
+
 <img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Intellij_IDEA_2017_Logo.png2"
 width = "115">
 
@@ -73,6 +76,7 @@ Especialmente popular entre los desarrolladores Java, ofrece características av
 5 | Integración con Herramientas Externas | Espacio en Disco
 
 4. **PyCharm (JetBrains):** 
+
 <img src = "https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg"
 width = "115">
 
@@ -91,6 +95,7 @@ Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades 
 5 | Integración con Herramientas Externas | Espacio en Disco
 
 5. **NetBeans:** 
+
 <img src = "https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png"
 width = "115">
 
@@ -109,6 +114,7 @@ Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desa
 5 | Integración con Herramientas Externas | Espacio en Disco
 
 6. **Android Studio:** 
+
 <img src = "https://c0.klipartz.com/pngpicture/628/399/gratis-png-logotipo-de-android-studio-desarrollo-de-aplicaciones-moviles-de-android-studio-android.png)"
 width = "115" >
 
@@ -126,7 +132,8 @@ Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas
 4 | Personalización | Actualizaciones y Mantenimiento
 5 | Integración con Herramientas Externas | Espacio en Disco
 
-7. **Xcode** (Apple): 
+7. **Xcode** 
+
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png"
 width = "115">
 
