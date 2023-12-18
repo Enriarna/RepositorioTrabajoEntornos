@@ -22,7 +22,7 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 
 1. **Visual Studio (Microsoft):** 
 
-<img src = "hhttps://assets.stickpng.com/images/62a79035e42d729d928b1755.png"
+<img src = "https://assets.stickpng.com/images/62a79035e42d729d928b1755.png"
 width="200">
 
 Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
