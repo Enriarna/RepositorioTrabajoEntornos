@@ -58,8 +58,8 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras más especializadas en lenguajes o entornos específicos. La elección de la IDE depende en gran medida del lenguaje de programación y las necesidades del proyecto.
 
 ## 2. Programacion
- ¡Claro! La asignatura de programación es un área fundamental en informática que se enfoca en enseñar a los estudiantes cómo escribir código de computadora para crear programas y software. Aquí tienes algunos puntos importantes sobre la asignatura:
-
+La asignatura de programación es un área fundamental en informática que se enfoca en enseñar a los estudiantes cómo escribir código de computadora para crear programas y software. Aquí tienes algunos puntos importantes sobre la asignatura:
+### Video Explicativo
 [RESUMEN DE PROGRAMACION](https://youtu.be/D4tNLuZNA3A?si=e64JkjRE9KV1L9pt)
 
 ### 1. Fundamentos de Programación:
