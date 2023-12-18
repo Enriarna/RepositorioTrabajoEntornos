@@ -140,7 +140,32 @@ La asignatura de programación es un área fundamental en informática que se en
 En resumen, la asignatura de programación es esencial para aquellos interesados en la creación de software, ya que proporciona las habilidades y el conocimiento necesarios para desarrollar programas, resolver problemas y contribuir a la innovación tecnológica.
 ### Un poco de Programacion
 ```java
-System.out.println("Hola mundo)
+package com.dam.quique;
+
+public class Main{
+
+	public static void main(String[] args) {
+		System.out.println("\tLunes\t\tMartes\t\tMiercoles\tJueves\tViernes");		
+		
+		System.out.println("8:00\n8:55\tFol\t\tSI\t\tSI\t\tAng\t\tED");
+		
+		System.out.println("\n8:55\n9:50\tProg\t\tBDA\t\tBDA\t\tProg\t\tLLMM");		
+		
+		System.out.println("\n9:50\n10:10\tPatio\t\tPatio\t\tPatio\t\tPatio\t\tPatio");
+		
+		System.out.println("\n10:10\n11:05\tProg\t\tBDA\t\tBDA\t\tProg\t\tLLMM");
+		
+		System.out.println("\n11:05\n12:00\tProg\t\tProg\t\tBDA\t\tFOL\t\tFOL");
+		
+		System.out.println("\n12:00\n12:20\tPatio\t\tPatio\t\tPatio\t\tPatio\t\tPatio");
+		
+		System.out.println("\n12:20\n13:15\tED\t\tProg\t\tBDA\t\tSI\t\tProg");
+		
+		System.out.println("\n13:15\n14:10\tAng\t\tED\t\tLLMM\t\tSI\t\tAng");
+		
+	}
+
+}
 ```
 
 ## 3. Lenguaje de Marcas
