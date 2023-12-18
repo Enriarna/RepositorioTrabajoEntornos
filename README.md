@@ -21,6 +21,7 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 1. **Visual Studio (Microsoft):** 
 <img src = "https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png"
 width="115">
+
 Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .NET, Python, entre otros. Ofrece herramientas de depuración, diseño de interfaces y soporte para el desarrollo de aplicaciones web y móviles.
 
 #### Enlace Para descargar Visual Studio
@@ -38,6 +39,7 @@ Es una IDE muy completa para desarrollo en múltiples lenguajes como C#, C++, .N
 2. **Eclipse:** 
 <img src = "https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"
 width = "115">
+
 Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
 
 #### Enlace Para descargar Eclipse
@@ -55,6 +57,7 @@ Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes med
 3. **IntelliJ IDEA (JetBrains):** 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Intellij_IDEA_2017_Logo.png2"
 width = "115">
+
 Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
 
 #### Enlace Para descargar IntelliJ
@@ -72,6 +75,7 @@ Especialmente popular entre los desarrolladores Java, ofrece características av
 4. **PyCharm (JetBrains):** 
 <img src = "https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg"
 width = "115">
+
 Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades como depuración avanzada, análisis de código, soporte para frameworks web como Django y Flask, entre otros.
 
 #### Enlace Para descargar PyCharm
@@ -89,6 +93,7 @@ Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades 
 5. **NetBeans:** 
 <img src = "https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png"
 width = "115">
+
 Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desarrollo de aplicaciones web, móviles y empresariales. Es de código abierto y tiene una comunidad activa de usuarios.
 
 #### Enlace Para descargar NetBeans
@@ -106,6 +111,7 @@ Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desa
 6. **Android Studio:** 
 <img src = "https://c0.klipartz.com/pngpicture/628/399/gratis-png-logotipo-de-android-studio-desarrollo-de-aplicaciones-moviles-de-android-studio-android.png)"
 width = "115" >
+
 Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas para diseño de interfaces, depuración y optimización de aplicaciones móviles.
 
 #### Enlace Para descargar Android Studio
@@ -123,6 +129,7 @@ Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas
 7. **Xcode** (Apple): 
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png"
 width = "115">
+
 IDE para desarrollo de aplicaciones en el ecosistema de Apple, incluyendo iOS, macOS, watchOS y tvOS. Proporciona herramientas para diseño de interfaces, depuración y pruebas de aplicaciones.
 
 #### Enlace Para descargar Xcode
