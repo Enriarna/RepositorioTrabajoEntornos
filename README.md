@@ -42,28 +42,66 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 #### Enlace Para descargar IntelliJ
 [Descargar aquí](https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=EMEA_en_ES_IDEA_Branded&term=intellij%20idea&content=602143185340&gclid=CjwKCAiA-P-rBhBEEiwAQEXhH1X04pgGH5vvZx2E3D6vI5v3op4he9p5TlzzNMaZf9hdj3QZlIFGqRoCbk4QAvD_BwE)
 ![imagen IntelliJ](https://upload.wikimedia.org/wikipedia/commons/3/32/Intellij_IDEA_2017_Logo.png)
-
+### Ventajas Y Desventajas de IntelliJ
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 4. **PyCharm (JetBrains):** Diseñado específicamente para el desarrollo en Python, ofrece funcionalidades como depuración avanzada, análisis de código, soporte para frameworks web como Django y Flask, entre otros.
 #### Enlace Para descargar PyCharm
 [Descargar aquí](https://www.jetbrains.com/pycharm/promo/?source=google&medium=cpc&campaign=EMEA_en_ES_PyCharm_Branded&term=pycharm&content=603858680145&gclid=CjwKCAiA-P-rBhBEEiwAQEXhH03Q9dOxh7ML7umE4BYywqWCiBu7RqKzTgKpliDKMIH3XL3V93HVBRoCP40QAvD_BwE)
 ![imagen PyCharm](https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg)
+### Ventajas Y Desventajas de PyCharm
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 5. **NetBeans:** Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desarrollo de aplicaciones web, móviles y empresariales. Es de código abierto y tiene una comunidad activa de usuarios.
 #### Enlace Para descargar NetBeans
 [Descargar aquí](https://netbeans.apache.org/front/main/download/index.html)
 ![imagen NetBeans](https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png)
+### Ventajas Y Desventajas de NetBeans
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 6. **Android Studio:** Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas para diseño de interfaces, depuración y optimización de aplicaciones móviles.
-#### Enlace Para descargar NetBeans
+#### Enlace Para descargar Android Studio
 [Descargar aquí](https://developer.android.com/studio?gclid=CjwKCAiA-P-rBhBEEiwAQEXhH8ua6xFsbYOcHyxjcccfBh7091lpBmBSnMTLcgtVLOyZY_BGOvypuRoCzY0QAvD_BwE&gclsrc=aw.ds&hl=es-419)
 ![imagen Android Studio](https://c0.klipartz.com/pngpicture/628/399/gratis-png-logotipo-de-android-studio-desarrollo-de-aplicaciones-moviles-de-android-studio-android.png)
+### Ventajas Y Desventajas de Android Studio
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 7. **Xcode** (Apple): IDE para desarrollo de aplicaciones en el ecosistema de Apple, incluyendo iOS, macOS, watchOS y tvOS. Proporciona herramientas para diseño de interfaces, depuración y pruebas de aplicaciones.
 #### Enlace Para descargar Xcode
-
 [Descargar aquí](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
 ![imagen Android Studio](https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png)
+### Ventajas Y Desventajas de Xcode
+-------- | Ventajas | Desventajas
+-------- | -------- | ---------
+1 | Versatilidad | Rendimiento
+2 | Comunidad Activa | Curva de Aprendizaje
+3 | Funcionalidades Avanzadas | Personalización Compleja
+4 | Personalización | Actualizaciones y Mantenimiento
+5 | Integración con Herramientas Externas | Espacio en Disco
 
 Estas son solo algunas de las IDEs más conocidas, pero existen muchas otras más especializadas en lenguajes o entornos específicos. La elección de la IDE depende en gran medida del lenguaje de programación y las necesidades del proyecto.
 
