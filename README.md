@@ -22,7 +22,7 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 [Descargar aquí](https://code.visualstudio.com/download )
 
 <img src = "https://sobrebits.com/wp-content/uploads/2018/10/Visual-Studio-Code-para-PowerShell.png"
-width="90">
+width="150">
 
 ### Ventajas Y Desventajas de Visual Studio
 
