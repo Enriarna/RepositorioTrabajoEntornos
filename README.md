@@ -26,7 +26,8 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 2. **Eclipse:** Ampliamente utilizado en desarrollo Java, aunque admite múltiples lenguajes mediante complementos. Es altamente personalizable y tiene una amplia gama de plugins que permiten ampliar sus capacidades.
 #### Enlace Para descargar Eclipse
 [Descargar aquí](https://www.eclipse.org/downloads/)
-![imagen Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/ 280px-Eclipse-Luna-Logo.svg.png)
+
+![imagen Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png)
 
 3. **IntelliJ IDEA (JetBrains):** Especialmente popular entre los desarrolladores Java, ofrece características avanzadas de refactorización, análisis estático de código y soporte para tecnologías modernas como Kotlin y Flutter.
 #### Enlace Para descargar IntelliJ
@@ -42,7 +43,7 @@ Existen numerosas IDEs (Entornos de Desarrollo Integrados) utilizadas en la indu
 5. **NetBeans:** Utilizado principalmente en el desarrollo Java, ofrece herramientas para el desarrollo de aplicaciones web, móviles y empresariales. Es de código abierto y tiene una comunidad activa de usuarios.
 #### Enlace Para descargar NetBeans
 [Descargar aquí](https://netbeans.apache.org/front/main/download/index.html)
-![imagen NetBeans](https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png)
+![imagen NetBeans](https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png)
 
 6. **Android Studio:** Especializado en el desarrollo de aplicaciones para Android, ofrece herramientas para diseño de interfaces, depuración y optimización de aplicaciones móviles.
 #### Enlace Para descargar NetBeans
